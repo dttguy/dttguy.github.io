@@ -3,7 +3,7 @@ Max Ivan T. Sangkal
 <h1>Degree Program</h1>
 BS Computer Science
 <h1>Live Website link</h1>
-<p> <a href="dttguy.github.io">My portfolio</p>
+<p> <a href="https:\\dttguy.github.io">My portfolio</p>
 <h1>Steps on how to create GitHub page</h1>
 <p>
   1. Make a new repository, name should be yourusername.github.io
